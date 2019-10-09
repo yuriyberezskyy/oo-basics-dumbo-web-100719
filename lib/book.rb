@@ -7,8 +7,5 @@ class Book
     @title
   end
   
-  def title = (newTitle)
-    @title = newTitle
-  end
   
 end
